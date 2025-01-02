@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual Environment
+todo_venv/
+
+# Django
+*.log
+db.sqlite3
+
+# System files
+.DS_Store
+.env
